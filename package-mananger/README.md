@@ -10,6 +10,8 @@ ln -s /usr/bin/python2.7 /usr/bin/python2
 # 包管理
 easy_install和pip都可以
 easy_install的用法
+
+
 1） 安装一个包
 $ easy_install <package_name>
 $ easy_install "<package_name>==<version>"
